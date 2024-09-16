@@ -9,7 +9,7 @@ function toggleMode() {
        img.setAttribute('src','assets/avatar-light.png ')
     } else {
     //   se tiver dark,mode adicionar a img dark,mode
-     img.setAttribute('src','assets/avatar.png ')
+     img.setAttribute('src','assets/avatar.png')
     }
 
   
